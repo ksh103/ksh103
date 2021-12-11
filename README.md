@@ -1,12 +1,14 @@
-## Hi, there 👋, I'm Sohyun!  
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,there&fontSize=90&fontColor=black&animation=fadeIn" />
+</div>
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksh103%2Fhit-counter&count_bg=%23FF3737&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=visited&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-<br/>
-
-<h3>💙Connect</h3>
+<div align="center">
+    <h2>🌱 Connect 🌱</h2>
+</div>
 
 <br/>
 
@@ -21,7 +23,9 @@
 
 <br/>
 
-<h3>💙 My Skill Set</h3>
+<div align="center">
+    <h2>🌳 Tech Stack 🌳</h2>
+</div>
 
 <br/>
 
@@ -39,7 +43,9 @@
 
 <br/>  
 
-<h3>💙 Github Stats </h3>
+<div align="center">
+    <h2>🍃 GitHub Stats 🍃</h2>
+</div>
 
 <br/>
 
@@ -48,3 +54,7 @@
 </div>
 
 <br />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksh103%2Fhit-counter&count_bg=%23FF3737&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=visited&edge_flat=false)](https://hits.seeyoufarm.com) 
+
+<br/>
