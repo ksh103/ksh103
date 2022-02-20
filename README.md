@@ -1,16 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F7FD5,100:91EAE4&height=300&section=header&text=Hi,there&fontSize=90&fontColor=black&animation=fadeIn" />
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksh103%2Fhit-counter&count_bg=%23FF3737&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=visited&edge_flat=false"/></a>
-</div>
-
-
-
-<div align="center">
     <h2>🌱 Connect 🌱</h2>
 </div>
 
